@@ -1,0 +1,6 @@
+if SHIELD_TKL
+
+config ZMK_KEYBOARD_NAME
+    default "tkl"
+
+endif # SHIELD_TKL
